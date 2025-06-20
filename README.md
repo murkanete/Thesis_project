@@ -4,4 +4,4 @@ The scripts Simulation_sup1.R and Simulation_sup2.R contain the main code for si
 
 The datafile "samplonie.csv" contains the dataset for the simulation.
 
-Scripts Simulation_analysis.R and Plots_sup1.R/Plots_sup2.R contain the code to compute the benchmark estimators and the plots in the results section respectively.
+Scripts Simulation_analysis.R and Plots_sup1.R/Plots_sup2.R contain the code to compute the component specific relative measures and the plots in the results section respectively.
